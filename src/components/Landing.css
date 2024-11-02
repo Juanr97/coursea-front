@@ -1,0 +1,13 @@
+.landing {
+    padding: 2rem;
+    background: #2e3b55;
+    color: white;
+    text-align: center;
+}
+
+.avatar {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    margin-bottom: 1rem;
+}

@@ -1,0 +1,12 @@
+#formSection {
+    padding: 2rem;
+    background: #6a1b9a;
+    color: white;
+}
+
+.contact-form form {
+    display: flex;
+    flex-direction: column;
+    max-width: 400px;
+    margin: 0 auto;
+}
