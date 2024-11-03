@@ -19,7 +19,7 @@ function Alert() {
       isOpen={isOpen}
       leastDestructiveRef={cancelRef}
       onClose={() => {}}
-      closeOnOverlayClick={false} // Para evitar que se cierre al hacer clic en el overlay
+      closeOnOverlayClick={false}  
     >
       <AlertDialogOverlay>
         <AlertDialogContent borderRadius="md" boxShadow="lg" p={4} bg={type === "success" ? "green.100" : "red.100"}>
